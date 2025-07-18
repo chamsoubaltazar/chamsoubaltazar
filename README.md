@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Freelancer in coding - UI & UX - illustration <br>- 📚 I'm currently learning new skills in programming and my own field <br>- ⚡ In my free time I used chill out or write some codes or sketching </p>
 
 ###
 
